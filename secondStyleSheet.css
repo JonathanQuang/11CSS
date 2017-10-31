@@ -1,0 +1,33 @@
+body {
+	background-image:url("https://media.tenor.com/images/52d13e6274e30ee0fe98d1c20d39a341/tenor.gif");
+}
+
+body:active{
+	background-image:url("https://media1.tenor.com/images/58b3d5f82cbefb8b96a04af417203185/tenor.gif?itemid=4528110");
+}
+
+h1 {
+	color:white;
+}
+
+p {
+	background-color:blue;
+	color:white;
+	size:50px;
+}
+
+ul {
+	background-image:url("https://media.tenor.com/images/d32f4ede886a6d1fd73795a0e6bacabf/tenor.gif");
+}
+
+h2 {
+	color:white;
+	text-align:center;
+	background-image:url("https://media.giphy.com/media/cgqN7iGSDk8GA/giphy.gif");
+}
+
+h3 {
+	color:white;
+	size:20px;
+	border: 10px solid;
+}
