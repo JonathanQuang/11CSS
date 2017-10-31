@@ -18,14 +18,19 @@ p {
 
 ul {
 	background-image:url("https://media.tenor.com/images/d32f4ede886a6d1fd73795a0e6bacabf/tenor.gif");
+	-webkit-transition:height 2s;
+	transition: height 2s;
+
+}
+
+ul:hover {
+	height:600px;
 }
 
 h2 {
 	color:white;
-	text-align:center;
-	background-image:url("https://media.giphy.com/media/cgqN7iGSDk8GA/giphy.gif");
+	text-align:center;	
 }
-
 h3 {
 	color:white;
 	size:20px;
