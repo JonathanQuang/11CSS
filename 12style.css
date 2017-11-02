@@ -1,0 +1,40 @@
+a:hover {
+    color: #CCCC00;
+    border-style: outset;
+}
+
+
+@keyframes moveHorizontal{
+    0%{transform: translateX(-100%);}
+    100%{transform: translateX(100%);}
+}
+
+h1{
+    padding: 20px; 
+    animation: moveHorizontal 4s linear alternate infinite;
+    color: darkgreen;
+    background-color:lightblue;
+    border: 4px solid red;
+    width: 25%;
+    display: block;
+    margin: auto auto;
+    text-align: center;
+}
+
+ul{
+	list-style-type: georgian;	
+}
+
+@keyframes goodLuckReadingThis{
+	0%{transform: translateY(-200%);}
+	100%{transform: translateY(200%);}
+}
+
+p{
+	padding: 20px;
+	animation: goodLuckReadingThis 4s linear alternate infinite;
+	width:25%;
+	display:block;
+	margin: auto auto;
+	text-align: center;
+}
