@@ -1,0 +1,39 @@
+.extreme{
+	background-color:black;
+	color:white;
+}
+
+.extreme:hover{
+	background-image:url("http://4.bp.blogspot.com/-SDYFFZpWX6Y/U0KuxMCIgdI/AAAAAAAAAw4/OTlr3yivsUg/s1600/tumblr_mdjn1y0Y3y1qdunk8o1_500.gif");
+}
+
+#head1{
+	font-size:30px;
+	color:gray;
+}
+
+.navzone{
+	color:darkblue;
+}
+
+.navzone:hover{
+	background-image:url("https://media.giphy.com/media/3oz8xDp5mAEOAZXEPe/source.gif");
+}
+
+#tehlulz{
+	font-size:10px;
+	text-align:right;
+}
+
+.content{
+	border:10px solid black;
+}
+
+.prose{
+	font-family:Times;
+	border:10px solid yellow;
+}
+
+.extreme{
+	border:url("https://media.giphy.com/media/3oz8xDp5mAEOAZXEPe/source.gif");
+}

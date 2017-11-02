@@ -8,7 +8,7 @@
 
 .navzone{
 	background-image:url("http://4.bp.blogspot.com/-SDYFFZpWX6Y/U0KuxMCIgdI/AAAAAAAAAw4/OTlr3yivsUg/s1600/tumblr_mdjn1y0Y3y1qdunk8o1_500.gif");
-	font-color:white;
+	color:white;
 }
 
 #tehlulz{
@@ -22,4 +22,8 @@
 
 .prose{
 	font-family:Times;
+}
+
+.extreme{
+	font:15px arial, sans-serif
 }
